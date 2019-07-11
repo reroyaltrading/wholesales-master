@@ -1,0 +1,9 @@
+#create branch
+git checkout homolog
+
+#sending code
+git status
+git diff
+git add -A
+git commit -m "message"
+git push origin homolog

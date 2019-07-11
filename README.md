@@ -1,1 +1,2 @@
-# wholesales-master
+# WholeSales
+Wholesale project for RE RoyalTrading
